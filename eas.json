@@ -13,10 +13,7 @@
     "production": {
       "android": {
         "buildType": "app-bundle"
-      },
-      "node": "20.9.0",
-      "yarn": "1.22.22",
-      "beforeInstall": "yarn config set enableImmutableInstalls false"
+      }
     }
   },
   "submit": {
