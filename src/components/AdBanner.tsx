@@ -12,7 +12,7 @@ export const ADMOB_APP_ID = 'ca-app-pub-1477681170501482~8751442388';
 
 const BANNER_ID = __DEV__
   ? TestIds.BANNER
-  : 'ca-app-pub-1477681170501482/BANNER_AD_ID_BURAYA';
+  : 'ca-app-pub-1477681170501482/8563141058';
 
 export const ADMOB_INTERSTITIAL_ID = __DEV__
   ? TestIds.INTERSTITIAL
