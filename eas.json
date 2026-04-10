@@ -14,9 +14,9 @@
       "android": {
         "buildType": "app-bundle"
       },
-      "env": {
-        "YARN_ENABLE_IMMUTABLE_INSTALLS": "false"
-      }
+      "node": "20.9.0",
+      "yarn": "1.22.22",
+      "beforeInstall": "yarn config set enableImmutableInstalls false"
     }
   },
   "submit": {
